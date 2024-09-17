@@ -1,7 +1,3 @@
-Here's a template for a README file for your **To-Do List** project. You can copy this and customize it further if needed:
-
----
-
 # To-Do List
 
 A simple and user-friendly To-Do List web application that allows users to manage tasks effectively. This project was developed to practice front-end skills and explore task management systems.
@@ -71,9 +67,5 @@ If you have any suggestions for improving the app, feel free to:
     ```
 5. Open a pull request.
 
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
 
 Feel free to update the repository link in the instructions and add any additional details about the project. If you have a demo GIF, include the path for it in the image link above!
